@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **React, NodeJS, Golang and web development**
 
-- 📫 How to reach me **omarmughal103@gmail.com**
+- 📫 How to reach me **omarmughal281@gmail.com**
 
 - ⚡ Fun fact **love Coffee, coding and traveling**
 
